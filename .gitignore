@@ -1,0 +1,15 @@
+# LaTeX submission (private)
+paper/
+
+# IDE
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Output artifacts
+*.pdf
+*.png
+*.synctex.gz
